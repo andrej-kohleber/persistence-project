@@ -1,0 +1,5 @@
+com/baeldung/lsd/model/Project.class
+com/baeldung/lsd/model/Worker.class
+com/baeldung/lsd/model/TaskStatus.class
+com/baeldung/lsd/PersistenceProjectApplication.class
+com/baeldung/lsd/model/Task.class
